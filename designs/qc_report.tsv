@@ -1,0 +1,21 @@
+name	objective	framework	length	cdr1	cdr2	cdr3	cdr3_len	cys	cdr_his	framework_his	paratope_charge_gain_6p5_vs_7p4	net_charge_pH6p5	net_charge_pH7p4	pI	gravy	liabilities	rationale
+EGFR_D3_AFF_01	1:binding affinity (human EGFR)	A	120	GRTFSSYA	ISWSGGST	AADWGYYDSWDYEY	14	2	0	0	0.0	-0.97	-1.02	5.01	-0.416	none	Trp/Tyr shelf + 4 acidic contacts to the K443/K465 face
+EGFR_D3_AFF_02	1:binding affinity (human EGFR)	A	120	GRTFSDYA	ISRSGGTT	AAEYWSGDYYGLDY	14	2	0	0	0.0	0.03	-0.02	7.0	-0.402	none	CDR2 Arg reaches the D355 subsite; acidic CDR3 tip
+EGFR_D3_AFF_03	1:binding affinity (human EGFR)	B	121	GFTFSSYA	ITSGGGDT	AADRGWYDFDSPYEY	15	2	0	0	0.0	-1.97	-2.02	4.67	-0.45	none	Longer 15-mer CDR3, Pro-kinked tip for a deeper insertion
+EGFR_D3_AFF_04	1:binding affinity (human EGFR)	B	120	GRTFSTYA	IYWSGGTT	AAGYSWDEYYRLDY	14	2	0	0	0.0	1.03	0.97	8.92	-0.46	none	Aromatic-dense CDR2; mixed charge tip for shape complementarity
+EGFR_D3_AFF_05	1:binding affinity (human EGFR)	C	120	GRTFSSWA	ISWEGGST	AAWDYGSTYYELDY	14	2	0	0	0.0	-2.96	-3.02	4.53	-0.428	none	CDR1 Trp anchor; Ser/Thr patch for Q384/Q408 hydrogen bonds
+EGFR_D3_AFF_06	1:binding affinity (human EGFR)	C	122	GFTFSDYA	ISSGGSTT	AAEGWYSDYFDLGYDY	16	2	0	0	0.0	-4.96	-5.02	4.16	-0.366	none	16-mer CDR3, extended paratope spanning both lobes of the groove
+EGFR_D3_AFF_07	1:binding affinity (human EGFR)	A	122	GRTFSSYA	ISWSGGDT	AARYWDSGSYYFDLEY	16	2	0	0	0.0	0.03	-0.02	7.0	-0.384	none	16-mer, Arg/Asp pair pre-organises the loop tip
+EGFR_D3_AFF_08	1:binding affinity (human EGFR)	B	120	GRSFSTYA	IDWSGGRT	AAYDSWGSYYEFDY	14	2	0	0	0.0	0.03	-0.03	6.99	-0.488	none	Charge-paired CDR2; Phe/Tyr core against the I467 shelf
+EGFR_D3_XRC_01	2:mouse cross-reactivity	A	118	GRTFSSYA	ISWSGGST	AAGYTWYSGSDY	12	2	0	0	0.0	2.02	1.98	9.35	-0.331	none	12-mer CDR3, compact footprint on the conserved ligand core
+EGFR_D3_XRC_02	2:mouse cross-reactivity	A	119	GRTFSTYA	ISSGGSTT	AASYGTTWYSLDY	13	2	0	0	0.0	2.02	1.98	9.35	-0.297	none	13-mer, hydrogen-bond driven, single acidic residue
+EGFR_D3_XRC_03	2:mouse cross-reactivity	B	120	GFTFSSYA	IYSGGSTT	AAGSYWSTTYGLDY	14	2	0	0	0.0	1.02	0.97	8.96	-0.314	none	Charge-free CDR3; species-invariant aromatic and polar contacts
+EGFR_D3_XRC_04	2:mouse cross-reactivity	B	120	GRTFSSWA	ITWSGGST	AATYSGWSSYYLDY	14	2	0	0	0.0	2.02	1.98	9.33	-0.377	none	Trp-rich flat paratope, minimal reliance on variable side chains
+EGFR_D3_XRC_05	2:mouse cross-reactivity	C	120	GRTFSTYA	ISWSGGTT	AAVQYSGSYWTTDY	14	2	0	0	0.0	0.03	-0.02	7.0	-0.377	none	Gln mimics the conserved ligand-contact hydrogen bonding
+EGFR_D3_XRC_06	2:mouse cross-reactivity	C	120	GFTFSSWA	ISSGGSTT	AAGSTYYWSSPLDY	14	2	0	0	0.0	-0.97	-1.02	4.96	-0.301	none	Pro-rigidified tip; polar/aromatic only, no salt bridges
+EGFR_D3_PHS_01	3:pH-selective binding	A	120	GRTFSHYA	ISWSGGHT	AAHDYWSGHYYLDY	14	2	4	0	0.81	1.99	1.13	8.97	-0.412	none	4 His spread across all three CDRs; no CDR Arg/Lys
+EGFR_D3_PHS_02	3:pH-selective binding	A	120	GRTFSSYA	IHWSGGHT	AAWHSGHYDYSLDY	14	2	4	0	0.81	1.99	1.13	9.01	-0.407	none	4 His, CDR2-weighted switch adjacent to the acidic subsite
+EGFR_D3_PHS_03	3:pH-selective binding	B	120	GFTFSHYA	ISSGGHTT	AAHGYSHWDHTLDY	14	2	5	0	1.01	1.23	0.17	7.84	-0.433	none	5 His for a steeper, more cooperative pH transition
+EGFR_D3_PHS_04	3:pH-selective binding	B	120	GRTFSSHA	ISWHGGST	AAHSYWGHDHSLDY	14	2	5	0	1.01	2.23	1.17	9.07	-0.492	none	5 His; intramolecular His-Asp pair raises the effective pKa
+EGFR_D3_PHS_05	3:pH-selective binding	C	120	GRTFSHWA	IHSSGGST	AAGHYWSHSHDLDY	14	2	5	0	1.01	0.23	-0.83	6.61	-0.475	none	5 His with a Trp anchor to hold weak pH-independent affinity
+EGFR_D3_PHS_06	3:pH-selective binding	C	120	GRTFSSYA	IHWSGGHT	AAHDWSHGHYYLDY	14	2	5	0	1.01	0.23	-0.83	6.61	-0.483	none	5 His, His stack at the loop tip for maximal switch amplitude
